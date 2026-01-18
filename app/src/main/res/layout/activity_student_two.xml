@@ -40,7 +40,7 @@
             android:layout_marginBottom="50dp"
             android:fontFamily="@font/jostregular"
             android:gravity="center"
-            android:text="I'm a 4th year student of University of Cabuyao (PnC), studying under the program of Bachelor of Science in Information Technology."
+            android:text=" Hello! I'm a 4th year student of University of Cabuyao (PnC), studying under Bachelor of Science in Information Technology."
             android:textColor="?attr/colorOnSurfaceVariant"
             android:textSize="16sp" />
 

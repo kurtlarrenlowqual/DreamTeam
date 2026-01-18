@@ -1,4 +1,4 @@
-package com.example.dreamteam
+package com.example.dreamteam;
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

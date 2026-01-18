@@ -1,8 +1,6 @@
 package com.example.dreamteam
 
 import android.os.Bundle
-
-
 import androidx.activity.ComponentActivity
 import android.widget.Button
 
