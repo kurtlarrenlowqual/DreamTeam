@@ -13,6 +13,7 @@
         android:theme="@style/Theme.DreamTeam">
 
         <activity android:name=".StudentOneActivity" />
+        <activity android:name=".StudentFiveActivity" />
 
         <activity
             android:name=".MainActivity"
