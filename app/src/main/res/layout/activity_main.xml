@@ -116,19 +116,6 @@
             app:strokeWidth="3dp" />
 
         <!-- BUTTON 6 -->
-        <com.google.android.material.button.MaterialButton
-            android:id="@+id/btnStudent6"
-            android:layout_width="match_parent"
-            android:layout_height="56dp"
-            android:fontFamily="@font/jostregular"
-            android:text="Student 6"
-            android:textColor="@android:color/black"
-            android:textSize="16sp"
-            app:backgroundTint="@android:color/transparent"
-            app:cornerRadius="50dp"
-            app:rippleColor="@android:color/black"
-            app:strokeColor="@android:color/black"
-            app:strokeWidth="3dp" />
 
     </LinearLayout>
 
