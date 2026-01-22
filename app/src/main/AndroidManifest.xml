@@ -17,7 +17,7 @@
         <activity android:name=".StudentThreeActivity" />
         <activity android:name=".StudentFourActivity" />
         <activity android:name=".StudentFiveActivity" />
-
+        <activity android:name=".StudentSixActivity" />
 
         <activity
             android:name=".MainActivity"

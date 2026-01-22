@@ -41,6 +41,12 @@ class MainActivity : ComponentActivity() {
             val intent = Intent(this, StudentFiveActivity::class.java)
             startActivity(intent)
         }
+        val btnStudent6 = findViewById<Button>(R.id.btnStudent6)
+
+        btnStudent6.setOnClickListener {
+            val intent = Intent(this, StudentSixActivity::class.java)
+            startActivity(intent)
+        }
 
 
     }
